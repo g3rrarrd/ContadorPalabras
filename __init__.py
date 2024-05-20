@@ -11,6 +11,3 @@ if __name__ == "__main__":
 
     print("Me has demostrado tus pensamientos en %d palabras \n" % fm.words_counter())
     print("Cantidad de letras usadas: %s" % fm.letter_counter())
-
-else:
-    print("Adios")
